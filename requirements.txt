@@ -1,0 +1,24 @@
+fastapi==0.112.2
+uvicorn[standard]==0.30.6
+langchain==0.2.16
+langchain-community==0.2.16
+chromadb==0.5.5
+sentence-transformers==3.0.1
+pydantic==2.9.0
+# pandas removed; using pyarrow/openpyxl/csv
+numpy==1.26.4
+PyMuPDF==1.24.8
+pdfplumber==0.11.4
+python-docx==1.1.2
+watchdog==4.0.2
+matplotlib==3.9.2
+# seaborn removed
+openai==1.43.0
+# tiktoken removed
+# scikit-learn removed
+python-multipart==0.0.9
+PyYAML==6.0.2
+orjson==3.10.7
+# pyarrow removed
+openpyxl==3.1.5
+langchain-openai==0.1.23
